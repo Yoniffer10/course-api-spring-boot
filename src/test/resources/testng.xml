@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API REST Project Test Suite">
+	<test name="Topic Tests">
+		<classes>
+			<class name="com.inlakech.springboot.app.test.TopicServiceTest"/>
+		</classes>
+	</test>
+</suite>
